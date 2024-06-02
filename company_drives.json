@@ -1,0 +1,20 @@
+[
+    {
+      "_id": "60d5ec49f1f1e8c8aefefb8a",
+      "company_name": "Google",
+      "date": "2020-10-18T00:00:00Z",
+      "students_appeared": [
+        "60d5ec49f1f1e8c8aefefb1a",
+        "60d5ec49f1f1e8c8aefefb2b"
+      ]
+    },
+    {
+      "_id": "60d5ec49f1f1e8c8aefefb8b",
+      "company_name": "Microsoft",
+      "date": "2020-10-25T00:00:00Z",
+      "students_appeared": [
+        "60d5ec49f1f1e8c8aefefb3c"
+      ]
+    }
+  ]
+  

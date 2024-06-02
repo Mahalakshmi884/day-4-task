@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "60d5ec49f1f1e8c8aefefb1a",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "class": "Zen Class 1",
+    "mentor_id": "60d5ec49f1f1e8c8aefefb5a"
+  },
+  {
+    "_id": "60d5ec49f1f1e8c8aefefb2b",
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "class": "Zen Class 1",
+    "mentor_id": "60d5ec49f1f1e8c8aefefb5a"
+  },
+  {
+    "_id": "60d5ec49f1f1e8c8aefefb3c",
+    "name": "Charlie Davis",
+    "email": "charlie.davis@example.com",
+    "class": "Zen Class 2",
+    "mentor_id": "60d5ec49f1f1e8c8aefefb6b"
+  }
+]

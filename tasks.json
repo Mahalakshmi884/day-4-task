@@ -1,0 +1,24 @@
+[
+    {
+      "_id": "60d5ec49f1f1e8c8aefefb7a",
+      "topic_id": "60d5ec49f1f1e8c8aefefb6a",
+      "task_name": "MongoDB Setup",
+      "date_assigned": "2020-10-11T00:00:00Z",
+      "status": "Submitted"
+    },
+    {
+      "_id": "60d5ec49f1f1e8c8aefefb7b",
+      "topic_id": "60d5ec49f1f1e8c8aefefb6b",
+      "task_name": "JavaScript Exercises",
+      "date_assigned": "2020-10-16T00:00:00Z",
+      "status": "Not Submitted"
+    },
+    {
+      "_id": "60d5ec49f1f1e8c8aefefb7c",
+      "topic_id": "60d5ec49f1f1e8c8aefefb6c",
+      "task_name": "Node.js Project",
+      "date_assigned": "2020-10-21T00:00:00Z",
+      "status": "Submitted"
+    }
+  ]
+  

@@ -1,0 +1,18 @@
+[
+    {
+      "_id": "60d5ec49f1f1e8c8aefefb4a",
+      "user_id": "60d5ec49f1f1e8c8aefefb1a",
+      "problems_solved": 150
+    },
+    {
+      "_id": "60d5ec49f1f1e8c8aefefb4b",
+      "user_id": "60d5ec49f1f1e8c8aefefb2b",
+      "problems_solved": 200
+    },
+    {
+      "_id": "60d5ec49f1f1e8c8aefefb4c",
+      "user_id": "60d5ec49f1f1e8c8aefefb3c",
+      "problems_solved": 180
+    }
+  ]
+  

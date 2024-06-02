@@ -1,0 +1,21 @@
+[
+    {
+      "_id": "60d5ec49f1f1e8c8aefefb5a",
+      "user_id": "60d5ec49f1f1e8c8aefefb1a",
+      "date": "2020-10-16T00:00:00Z",
+      "status": "Present"
+    },
+    {
+      "_id": "60d5ec49f1f1e8c8aefefb5b",
+      "user_id": "60d5ec49f1f1e8c8aefefb2b",
+      "date": "2020-10-17T00:00:00Z",
+      "status": "Absent"
+    },
+    {
+      "_id": "60d5ec49f1f1e8c8aefefb5c",
+      "user_id": "60d5ec49f1f1e8c8aefefb3c",
+      "date": "2020-10-18T00:00:00Z",
+      "status": "Present"
+    }
+  ]
+  
